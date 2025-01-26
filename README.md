@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Manu!</h1>
 <h3 align="center">A Systems Engineering student.</h3>
 
-- Contact me: **juanmanuelkobayashi@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
