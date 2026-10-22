@@ -10,7 +10,7 @@ from the data model to the deploy, and I keep them running in production.
 [![Portfolio](https://img.shields.io/badge/Portfolio-kobyuu.pages.dev-040f0f?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kobyuu.pages.dev/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/juanmanuelkobayashi02/)
 [![Email](https://img.shields.io/badge/Email-Write_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:juanmanuelkobayashi@gmail.com)
-[![CV](https://img.shields.io/badge/CV-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kobyuu.pages.dev/cv-juan-manuel-kobayashi.pdf)
+[![CV](https://img.shields.io/badge/CV-Download-2ea44f?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://kobyuu.pages.dev/cv-juan-manuel-kobayashi-en.pdf)
 
 </div>
 
