@@ -73,7 +73,7 @@ from the data model to the deploy, and I keep them running in production.
 
 ### 🎌 Beyond code
 
-🇦🇷 Spanish (native) · 🇬🇧 English (bilingual) · 🇯🇵 Japanese (learning)<br/>
+🗣️ Spanish (native) · English (bilingual) · Japanese (learning)<br/>
 In my spare time I build small things for fun — a mahjong-style puzzle game for Android in Godot, a Scrabble PWA to play at home.
 
 <div align="center">
