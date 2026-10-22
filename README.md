@@ -30,13 +30,13 @@ from the data model to the deploy, and I keep them running in production.
 
 | Project | What it solves | Built with |
 | :-- | :-- | :-- |
-| 🌱 **ERP Soluciones Agrícolas**<br/><sub>Agro · in production</sub> | Field operators log their work **with no signal**. Installable PWA with an encrypted local database that syncs with Supabase when the connection comes back. Farms, fleet, phytosanitary orders, daily reports and dashboards. **31 Row Level Security policies over 15 tables**, infra as code and Lighthouse CI on every push. | React · TypeScript · Supabase · Dexie.js · Zustand · Zod · Terraform · GitHub Actions |
+| 🌱 **[ERP Soluciones Agrícolas](https://github.com/Kobyuu/agro-erp-case-study)**<br/><sub>Agro · in production</sub> | Field operators log their work **with no signal**. Installable PWA with an encrypted local database that syncs with Supabase when the connection comes back. Farms, fleet, phytosanitary orders, daily reports and dashboards. **31 Row Level Security policies over 15 tables**, infra as code and Lighthouse CI on every push. | React · TypeScript · Supabase · Dexie.js · Zustand · Zod · Terraform · GitHub Actions |
 | 🏥 **[HospifyX](https://github.com/Kobyuu/HospifyX-portfolio)**<br/><sub>Healthcare · in production</sub> | Real-time **bed and ward management** for Hospital Enfermeros Argentinos. Occupancy updates instantly for every user over WebSocket — no more phone calls or shared spreadsheets. Roles and RBAC for staff. | React · Express · WebSocket · PostgreSQL · Prisma · Nginx · Docker |
-| 🏆 **The Schools Arena**<br/><sub>School sports · in production</sub> | Inter-school tournaments without WhatsApp groups. **4 apps** (Next.js landing, NestJS API, two Expo mobile apps) in a **Turborepo monorepo** sharing the same domain logic. Privacy by design for minors. | Next.js · NestJS · React Native · Expo · Prisma · PostgreSQL · Turborepo |
+| 🏆 **[The Schools Arena](https://github.com/Kobyuu/the-schools-arena-case-study)**<br/><sub>School sports · in production</sub> | Inter-school tournaments without WhatsApp groups. **4 apps** (Next.js landing, NestJS API, two Expo mobile apps) in a **Turborepo monorepo** sharing the same domain logic. Privacy by design for minors. | Next.js · NestJS · React Native · Expo · Prisma · PostgreSQL · Turborepo |
 | 🌍 **EcoToken**<br/><sub>Thesis · team of 3</sub> | Fractional **tokenization of carbon credits** for Argentine exporting SMEs. Smart contracts on Base Sepolia, custodial wallets (ERC-4337), ADRs and CI/CD. | Next.js · Node.js · Prisma · Solidity · Foundry · Docker |
 | ⏸️ **[Cairn](https://github.com/Kobyuu/Cairn)**<br/><sub>Open source · desktop</sub> | A break timer for Windows that **doesn't restart until you confirm you took the break**. No account, works offline. [Download it ↗](https://cairn-roan.vercel.app) | Tauri · Rust · React · TypeScript |
 
-<sub>Most client work lives in private repositories. Happy to walk through the code and the decisions behind it in an interview.</sub>
+<sub>Most client work lives in private repositories, so each project links to a **technical case study**: architecture, decisions, challenges and code excerpts. Happy to walk through the code in an interview.</sub>
 
 ---
 
