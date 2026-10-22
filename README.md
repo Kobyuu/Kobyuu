@@ -34,6 +34,7 @@ from the data model to the deploy, and I keep them running in production.
 | 🏥 **[HospifyX](https://github.com/Kobyuu/HospifyX-portfolio)**<br/><sub>Healthcare · in production</sub> | Real-time **bed and ward management** for Hospital Enfermeros Argentinos. Occupancy updates instantly for every user over WebSocket — no more phone calls or shared spreadsheets. Roles and RBAC for staff. | React · Express · WebSocket · PostgreSQL · Prisma · Nginx · Docker |
 | 🏆 **[The Schools Arena](https://github.com/Kobyuu/the-schools-arena-case-study)**<br/><sub>School sports · in production</sub> | Inter-school tournaments without WhatsApp groups. **4 apps** (Next.js landing, NestJS API, two Expo mobile apps) in a **Turborepo monorepo** sharing the same domain logic. Privacy by design for minors. | Next.js · NestJS · React Native · Expo · Prisma · PostgreSQL · Turborepo |
 | 🌍 **EcoToken**<br/><sub>Thesis · team of 3</sub> | Fractional **tokenization of carbon credits** for Argentine exporting SMEs. Smart contracts on Base Sepolia, custodial wallets (ERC-4337), ADRs and CI/CD. | Next.js · Node.js · Prisma · Solidity · Foundry · Docker |
+| 🔤 **[Scrabble+](https://github.com/Kobyuu/scrabble-plus-case-study)**<br/><sub>Personal · used daily</sub> | A Scrabble companion PWA: card mode, **AI word judge**, reads the board **from a photo**, remote play with a server-side bag, and a **best-move finder** (Appel–Jacobson over a 636k-word trie). | Next.js 16 · Drizzle · Postgres · Claude API · Web Push |
 | ⏸️ **[Cairn](https://github.com/Kobyuu/Cairn)**<br/><sub>Open source · desktop</sub> | A break timer for Windows that **doesn't restart until you confirm you took the break**. No account, works offline. [Download it ↗](https://cairn-roan.vercel.app) | Tauri · Rust · React · TypeScript |
 
 <sub>Most client work lives in private repositories, so each project links to a **technical case study**: architecture, decisions, challenges and code excerpts. Happy to walk through the code in an interview.</sub>
@@ -74,7 +75,7 @@ from the data model to the deploy, and I keep them running in production.
 ### 🎌 Beyond code
 
 🗣️ Spanish (native) · English (bilingual) · Japanese (learning)<br/>
-In my spare time I build small things for fun — a mahjong-style puzzle game for Android in Godot, a Scrabble PWA to play at home.
+In my spare time I build small things for fun — like a mahjong-style puzzle game for Android in Godot.
 
 <div align="center">
 <br/>
